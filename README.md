@@ -1,5 +1,13 @@
 # Personal-Portfolio
 
+ประวัติส่วนตัว
+ชื่อ-นามสกุล: นายสิรภัทร ลีล้าน (Siraphat leelan)
+รหัสนักศึกษา: 673380067-2
+Sec: 1
+Email: Siraphat.l@kkumail.com
+
+
+
 Assignments
 | # | ชื่องาน| ไฟล์ / ลิงก์ |
 |---|---------|--------------|
