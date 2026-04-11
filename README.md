@@ -37,3 +37,13 @@ Certificate Gallery
     </td>
   </tr>
 </table>
+
+
+Checkpoint Exams Gallery
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./Cisco Networking Academy/Progress.png" alt="Certificate 1" width="100%">
+    </td>
+  </tr>
+</table>
