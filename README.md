@@ -11,7 +11,7 @@
 ## 📌 About Me
 - 👤 ชื่อ: **นายสิรภัทร ลีล้าน (Siraphat Leelan)**
 - 🎓 Student ID: **673380067-2**
-- 🏫 Section: **1**
+- 🏫 Section: **2**
 - 📧 Email: **Siraphat.l@kkumail.com**
 
 ---
@@ -67,8 +67,8 @@
 ---
 
 ## 💡 Notes
-> This repository is created for collecting assignments, labs, and project work in Network Engineering course.
+> Created by นายสิรภัทร ลีล้าน 673380067-2 sec2
 
 ---
 
-## ⭐ ฝากกด Star ให้ด้วยนะครับ!
+## ⭐
