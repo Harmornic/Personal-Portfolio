@@ -27,3 +27,13 @@ Final Project
 | Final Project Artifacts | [View](./ProjectArtifacts/tscom_story.html) |
 | Final Project Artifacts | [View](./Group2TransSpacetime.pdf) |
 | Final Project Artifacts | [View](https://www.youtube.com/playlist?list=PLKU5upiqtWwv8ekHqp4MfAlGZweASREWg) |
+
+
+Certificate Gallery
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./Certificates/Certificates.png" alt="Certificate 1" width="100%">
+    </td>
+  </tr>
+</table>
