@@ -25,5 +25,5 @@ Final Project
 | ชื่อ | ไฟล์ / ลิงก์ |
 |------|--------------|
 | Final Project Artifacts | [View](./ProjectArtifacts/tscom_story.html) |
-| Final Project Artifacts | [View](./Group2Trans-Spacetime.pdf) |
+| Final Project Artifacts | [View](./Group2TransSpacetime.pdf) |
 | Final Project Artifacts | [View](https://www.youtube.com/playlist?list=PLKU5upiqtWwv8ekHqp4MfAlGZweASREWg) |
