@@ -44,6 +44,7 @@
 
 | 📌 รายการ | 🔗 ลิงก์ |
 |----------|---------|
+| 📝 Github | [View] https://github.com/genezobye/personal-portfolio/tree/main/Final%20Project |
 | 🌐 Story Website | [View](./ProjectArtifacts/tscom_story.html) |
 | 📄 Report PDF | [View](./Group2TransSpacetime.pdf) |
 | 🎥 Video Playlist | [Watch](https://www.youtube.com/playlist?list=PLKU5upiqtWwv8ekHqp4MfAlGZweASREWg) |
